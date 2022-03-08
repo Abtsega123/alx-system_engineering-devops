@@ -1,0 +1,17 @@
+total 20
+drwxr-xr-x 1 KIIT 197609  0 Mar  8 21:23 .
+drwxr-xr-x 1 KIIT 197609  0 Mar  8 18:48 ..
+-rwxr-xr-x 1 KIIT 197609 32 Mar  8 19:11 0-hello_world
+-rwxr-xr-x 1 KIIT 197609 29 Mar  8 19:19 1-confused_smiley
+-rwxr-xr-x 1 KIIT 197609 28 Mar  8 19:28 2-hellofile
+-rwxr-xr-x 1 KIIT 197609 39 Mar  8 19:44 3-twofiles
+-rwxr-xr-x 1 KIIT 197609 29 Mar  8 20:06 4-lastlines
+-rwxr-xr-x 1 KIIT 197609 29 Mar  8 20:08 5-firstlines
+-rwxr-xr-x 1 KIIT 197609 36 Mar  8 20:23 6-third_line
+-rwxr-xr-x 1 KIIT 197609 86 Mar  8 20:45 7-file
+-rwxr-xr-x 1 KIIT 197609 36 Mar  8 21:23 8-cwd_state
+-rw-r--r-- 1 KIIT 197609  8 Mar  8 18:53 README.md
+-rw-r--r-- 1 KIIT 197609 13 Mar  8 20:16 iacta
+-rw-r--r-- 1 KIIT 197609  0 Mar  8 21:23 ls_cwd_content
+-rw-r--r-- 1 KIIT 197609  0 Mar  8 19:49 me
+-rwxr-xr-x 1 KIIT 197609 97 Mar  8 20:32 new
